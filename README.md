@@ -1,6 +1,7 @@
 # Tela de login de uma agência de viagens
 
-Foi um projeto bem prazeroso de fazer, tinha pensado primeiramente em fazer algo estilo "gamer" (tipo login da Twitch, etc), mas acabei montando uma tela de login de uma suposta agência de viagens e gostei bastante do resultado.
+Desenvolvimento de uma interface de login para uma agência de viagens utilizando HTML5 e CSS3, com foco em estruturação semântica, organização de layout e estilização moderna.
+Aplicação de conceitos de responsividade e boas práticas de separação de responsabilidades (estrutura e estilo).
 
 ## Imagem do projeto finalizado
 
